@@ -1,6 +1,6 @@
-#                                                                               SHANTHOSH.V
-                                                                              _My Portfolio_
-                                                      **AWS Certified at Coursera, Aspiring Data Analyst, Interested in Data Psychology**                                          
+# SHANTHOSH.V
+ _My Portfolio_
+ **AWS Certified at Coursera, Aspiring Data Analyst, Interested in Data Psychology**                                          
                                                          
 
 # [Project 1: Stock Market Prediction](https://github.com/shanthosh-SP/heroku-demo) 
