@@ -8,7 +8,7 @@
 * Optimized LSTM to reach the best model. 
 * Built a client facing API using flask 
 
-![](/images/positions_by_state.png)
+![](Screenshot 2021-08-31 193047.png)
 
 
 # [Project 2: Tweets Recognizer using TensorFlow](https://github.com/shanthosh-SP/Tweet_Recoginzation) 
@@ -16,6 +16,6 @@
 * Went through various Process like Tokenization , Padding , Labelling and finally the Testing Model.
 * The Below Picture Decipts that the Correlation between the Labels.
 
-![](/images/matrix_results.png)
+![](image_2021-08-31_203946.png)
 
-For More Details **[Click Here]**()
+For More Details **[Click Here]**(https://github.com/shanthosh-SP/Webpage/blob/main/Shanthosh.V.pdf)
