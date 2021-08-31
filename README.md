@@ -1,7 +1,7 @@
 # SHANTHOSH.V
  _My Portfolio_
  **AWS Certified at Coursera, Aspiring Data Analyst, Interested in Data Psychology**                                          
- [LinkedIn Profile](www.linkedin.com/in/shanthoshvenkat0815)
+ Link to the : [LinkedIn Profile](www.linkedin.com/in/shanthoshvenkat0815)
 
 # [Project 1: Stock Market Prediction](https://github.com/shanthosh-SP/heroku-demo) 
 * Created a tool that estimates the closing price of the Next day and Next hour based on the Previous day Closing Price.
