@@ -1,4 +1,4 @@
-                                                                              # SHANTHOSH.V
+#                                                                               SHANTHOSH.V
                                                                               _My Portfolio_
                                                       **AWS Certified at Coursera, Aspiring Data Analyst, Interested in Data Psychology**                                          
                                                          
@@ -20,7 +20,9 @@
 
 ![](image_2021-08-31_203946.png)
 
-For More Details [Click Here](https://github.com/shanthosh-SP/Webpage/tree/main/images/Resume)
-To View My Certifications [Click Here](https://github.com/shanthosh-SP/Webpage/tree/main/images/Certificates)
+For More Details: [Click Here](https://github.com/shanthosh-SP/Webpage/tree/main/images/Resume)
+
+
+To View My Certifications: [Click Here](https://github.com/shanthosh-SP/Webpage/tree/main/images/Certificates)
 
 To see the Certification for my Projects:[Click Here](https://github.com/shanthosh-SP/Webpage/tree/main/images/Projects)
