@@ -21,6 +21,13 @@
 
 ![](image_2021-08-31_203946.png)
 
+# [Project 3: Number Plate Recognizer](https://github.com/shanthosh-SP/Nplate_detect) 
+* Here, I have created Number plate Recoginzer with help of OpenCV and haar cascade.
+* After detecting the Number Plate, when you press "s" the image gets saved
+* The Below Picture shows the Saved image of the Number Plate.
+
+![](image_2021-08-31_203946.png)
+
 For More Details: [Click Here](https://github.com/shanthosh-SP/Webpage/tree/main/images/Resume)
 
 
